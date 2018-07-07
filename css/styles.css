@@ -96,5 +96,5 @@ main > .tagline {
 .dropdown-content a:hover {background-color: #1CBF00}
 
 .dropdown:hover .dropdown-content {
-    display: block;
+    display: inline-block;
 }
