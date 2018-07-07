@@ -82,6 +82,7 @@ main > .tagline {
 	text-align: left;
     position: absolute;
     background-color: #137F00;
+	border-radius: 8px;
     min-width: 300%;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
@@ -91,6 +92,7 @@ main > .tagline {
     text-decoration: none;
 	font-size: 0.75rem;
     padding: 8px;
+	border-radius: 8px;
     display: block;
 }
 
