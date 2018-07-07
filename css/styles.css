@@ -74,11 +74,11 @@ main > .tagline {
 
 .icons-social .dropdown {
     position: relative;
-    display: block;
+    display: inline-block;
 }
 
 .icons-social .dropdown-content {
-    display: none;
+    display: block;
     position: absolute;
     left: 0px;
     background-color: #137F00;
