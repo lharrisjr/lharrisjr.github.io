@@ -81,6 +81,7 @@ main > .tagline {
     display: none;
     position: absolute;
     background-color: #137F00;
+    min-width: 200px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
 }
@@ -88,7 +89,7 @@ main > .tagline {
 .dropdown-content a {
     color: black;
     text-decoration: none;
-    min-width: 300px;
+    padding: 12px 16px;
     display: block;
 }
 
