@@ -80,6 +80,7 @@ main > .tagline {
 .icons-social .dropdown-content {
     display: none;
     position: absolute;
+    left: 0px;
     background-color: #137F00;
     min-width: 200px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
