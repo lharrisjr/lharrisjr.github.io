@@ -88,6 +88,7 @@ main > .tagline {
 .dropdown-content a {
     color: black;
     text-decoration: none;
+    min-width: 160px;
     display: block;
 }
 
